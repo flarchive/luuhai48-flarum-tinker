@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of luuhai48/flarum-tinker.** Not for installation: use [Packagist](https://packagist.org/packages/luuhai48/flarum-tinker) or the [upstream repository](https://github.com/luuhai48/flarum-tinker).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/luuhai48-flarum-tinker/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/luuhai48-flarum-tinker/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-11-08 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/luuhai48-flarum-tinker/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-11-25 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/luuhai48-flarum-tinker/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/luuhai48-flarum-tinker.json](https://github.com/flarchive/archive-index/blob/main/packages/luuhai48-flarum-tinker.json)
 
